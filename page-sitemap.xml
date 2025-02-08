@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on February 8, 2025 at 9:16 pm by All in One SEO v4.7.9 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=page"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/]]></loc>
+		<lastmod><![CDATA[2024-06-23T05:37:35+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/05/DSC_00792.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/05/2153905145.0.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/05/nba_minnesota_timberwolves_use_16x9.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/05/dota2_social.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/06/qtq80-FlPMi8.jpeg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/projects-professional/]]></loc>
+		<lastmod><![CDATA[2024-11-07T00:05:56+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/projects-portfolio/]]></loc>
+		<lastmod><![CDATA[2024-09-18T12:31:39+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/projects/]]></loc>
+		<lastmod><![CDATA[2024-09-18T12:31:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/privacy-policy/]]></loc>
+		<lastmod><![CDATA[2024-09-18T12:24:04+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/about-us/]]></loc>
+		<lastmod><![CDATA[2024-06-22T21:42:45+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/05/DSC_0079.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/services/]]></loc>
+		<lastmod><![CDATA[2024-06-15T21:49:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/05/DSC_00792.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/contact/]]></loc>
+		<lastmod><![CDATA[2024-05-08T13:52:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg]]></image:loc>
+		</image:image>
+	</url>
+</urlset>
